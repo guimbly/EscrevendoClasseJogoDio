@@ -23,5 +23,3 @@ class hero{
         }
     }
 }
-let a = new hero("a", 25, "GueRReiro")
-a.attack()
